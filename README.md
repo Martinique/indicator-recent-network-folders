@@ -3,7 +3,7 @@ Indicator menu listing your recently edited folders on network servers, using da
 
 Installing:
 
-    wget https://github.com/Martinique/indicator-gnote/raw/master/indicator-gnote
+    wget https://github.com/Martinique/indicator-rnf/raw/master/indicator-gnote
     chmod +x indicator-recent-network-folders
     sudo mv -f indicator-recent-network-folders /usr/local/bin
 
